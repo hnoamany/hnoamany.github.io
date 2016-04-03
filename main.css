@@ -1,0 +1,74 @@
+body{
+background: #AFE9C6;
+}
+img{
+border:0;
+}
+#content{
+width:692px;
+margin:30px auto;
+}
+#the_action{
+width:692px;
+height:348px;
+position:relative;
+background: url("background.png");
+}
+#am_position{
+top:10px;
+left:126px;
+width:385px;
+height:54px;
+position:absolute;
+}
+/*#am_animation{
+top:10px;
+left:126px;
+width:385px;
+height:54px;
+position:absolute;
+background: url("life-long-learner.png") no-repeat;
+}*/
+/*#like_animation{
+top:53px;
+left:140px;
+width:254px;
+height:54px;
+position:absolute;
+background:url("learn-new-things.png") no-repeat; 
+}*/
+#like_position{
+top:53px;
+left:140px;
+width:254px;
+height:54px;
+position:absolute;
+}
+.link{
+height:58px;
+position:absolute;
+}
+#link_blog{
+top:124px;
+left:22px;
+width: 89px; 
+}
+#link_code{
+top:124px;
+left:495px;
+width:187px;
+}
+/*#link_pictures{
+top:175px;
+left:375px;
+width:146px;
+}*/
+#link_blog:hover{
+background:url("blog.png") no-repeat;
+}
+#link_code:hover{
+background:url("code.png") no-repeat;
+}
+/*#link_pictures:hover{
+background:url("pictures.png") no-repeat;
+}*/
